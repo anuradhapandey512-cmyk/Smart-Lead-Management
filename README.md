@@ -14,5 +14,3 @@ This project automates lead creation, assignment, and tracking using Salesforce 
 - Lightning Web Components (LWC)
 - Salesforce Flows
 
-## Screenshots
-(Add UI + Flow images)
